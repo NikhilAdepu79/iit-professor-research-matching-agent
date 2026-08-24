@@ -1,0 +1,124 @@
+{
+  "name": "Adepu Nikhil",
+  "email": "adepunikhil79@gmail.com",
+  "phone": "+91 7981340358",
+  "location": "Hyderabad, Telangana, India",
+  "target_position": "Research Intern / Research Trainee",
+  "education": [
+    {
+      "degree": "Master of Science in Artificial Intelligence and Data Science",
+      "institution": "Central University of Andhra Pradesh",
+      "period": "Sep 2024 – May 2026",
+      "dissertation": {
+        "title": "Distance-Aware Real-Time Assistive Navigation System Using YOLOv8 and Monocular Depth Estimation",
+        "description": "Developed a spatial guidance framework combining YOLOv8 real-time object detection with monocular geometric depth estimation to provide directional awareness (left/center/right) for visually impaired users. Implemented scalable FastAPI microservices and multilingual audio feedback."
+      }
+    },
+    {
+      "degree": "Bachelor of Science (Hons.) in Electronics",
+      "institution": "University of Delhi, New Delhi",
+      "period": "Sep 2021 – May 2024"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": ["Python", "C++", "C", "SQL"],
+    "ai_ml_vision": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "YOLOv8",
+      "OpenCV",
+      "Roboflow",
+      "Scikit-learn",
+      "PyTorch"
+    ],
+    "generative_ai": [
+      "Google Gemini API",
+      "Ollama",
+      "Llama-based Local Models",
+      "Prompt Engineering",
+      "NLP"
+    ],
+    "backend_web": ["FastAPI", "REST APIs"],
+    "embedded_systems": [
+      "ESP32",
+      "Arduino Uno",
+      "Embedded C/C++",
+      "Hardware-Software Integration"
+    ],
+    "tools_and_cloud": ["Git", "GitHub", "Docker", "SQLite", "MySQL", "AWS EC2"]
+  },
+  "research_projects": [
+    {
+      "title": "Distance-Aware Real-Time Assistive Navigation System",
+      "domain": "Computer Vision & Assistive AI",
+      "technologies": ["YOLOv8", "Monocular Depth Estimation", "FastAPI", "OpenCV", "Roboflow"],
+      "summary": "Real-time object detection and directional guidance pipeline with low-latency API integration and multilingual audio feedback."
+    },
+    {
+      "title": "AI-Integrated Embedded Automation and Monitoring System",
+      "domain": "Edge AI & Embedded Systems",
+      "technologies": ["ESP32", "YOLO", "OpenCV", "Wi-Fi Communication", "Python"],
+      "summary": "Assistive mobility device integrating real-time camera inference with ESP32 microcontroller and smartphone feedback over Wi-Fi."
+    },
+    {
+      "title": "Offline AI Second Brain / NLP Conversational Assistant",
+      "domain": "Local LLMs & Generative AI",
+      "technologies": ["Ollama", "Llama Models", "Prompt Engineering", "Python"],
+      "summary": "Private, locally hosted conversational agent for document reasoning and task automation without cloud dependencies."
+    },
+    {
+      "title": "Real-Time Voice Deepfake Detection System",
+      "domain": "Audio Deep Learning & Security",
+      "technologies": ["PyTorch", "Librosa", "Mel-Spectrograms", "CNN"],
+      "summary": "Deep CNN classifier analyzing acoustic and temporal representations to identify synthetic voice manipulations."
+    },
+    {
+      "title": "AI-Powered Intelligent Loan Approval and EMI Analysis Platform",
+      "domain": "Financial Machine Learning",
+      "technologies": ["Scikit-learn", "FastAPI", "Pandas", "Python"],
+      "summary": "Credit risk assessment and automated decision support pipeline exposed via production REST APIs."
+    }
+  ],
+  "publications": [
+    {
+      "title": "A Real-Time Assistive Navigation Framework for Visually Impaired Users Using Spatial Reasoning and Computer Vision",
+      "journal": "International Journal of Creative and Open Research in Engineering and Management (IJCOPE)",
+      "date": "May 2026",
+      "doi": "10.55041/ijcope.v2i5.171"
+    }
+  ],
+  "research_interests": [
+    "Machine Learning & Deep Learning",
+    "Computer Vision & Visual AI",
+    "Assistive & Intelligent Systems",
+    "Generative AI & Agentic Systems",
+    "Interdisciplinary AI Applications (Scientific/Healthcare)"
+  ],
+  "target_institutions": [
+    "IIT Bombay",
+    "IIT Hyderabad",
+    "IIT Delhi",
+    "IIT Madras",
+    "IIT Kanpur",
+    "IIT Kharagpur",
+    "IIT Roorkee",
+    "IIT Guwahati",
+    "IIIT Hyderabad",
+    "IIIT Delhi",
+    "IIIT Bangalore",
+    "IIIT Allahabad",
+    "IISc Bangalore",
+    "NIT Warangal",
+    "NIT Trichy",
+    "NIT Surathkal",
+    "NIT Calicut",
+    "NIT Rourkela",
+    "IISER Pune",
+    "IISER Kolkata",
+    "ISB Hyderabad",
+    "IIM Bangalore",
+    "IIM Ahmedabad"
+  ],
+  "resume_filename": "Adepu_Nikhil_Resume.pdf"
+}
