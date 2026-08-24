@@ -28,7 +28,7 @@ iit_cold_email_agent/
 │   └── agent.db                    # SQLite database (auto-created on first run)
 │
 ├── assets/
-│   └── Adepu_Nikhil_Resume.pdf     # Master candidate resume PDF
+│   └── your_Resume.pdf     # Master candidate resume PDF
 │
 ├── generated_cover_letters/        # Formatted Cover_Letter_Prof_<Name>.pdf files
 │
